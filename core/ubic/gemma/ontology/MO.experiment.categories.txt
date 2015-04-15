@@ -1,0 +1,28 @@
+# Lists MGED Ontology terms to be displayed for 'high-level' ExpressionExperiment annotation
+# $Id: MO.experiment.categories.txt,v 1.3 2008/02/12 21:45:08 paul Exp $
+# Author: Paul
+Age
+CellType
+Treatment
+StrainOrLine
+TargetedCellType
+OrganismPart
+CellLine
+DevelopmentalStage
+Genotype
+DiseaseState
+DiseaseLocation
+DiseaseStaging
+ChromosomalAberrationClass
+ClinicalHistory
+ClinicalTreatment
+Compound
+Cultivar
+Ecotype
+EnvironmentalProtocolType
+EnvironmentalHistory
+GeneticModification
+Phenotype
+Sex
+TumorStaging
+

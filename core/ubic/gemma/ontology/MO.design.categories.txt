@@ -1,0 +1,9 @@
+# Lists MGED Ontology terms to be displayed for high-level annotation of experimental designs.
+# $Id: MO.design.categories.txt,v 1.1 2007/12/19 19:47:29 paul Exp $
+# Author: Paul
+ReplicateDescription
+MethodologicalDesign
+PerturbationalDesign
+TechnologicalDesign
+EpidemiologicalDesign
+BiologicalProperty
